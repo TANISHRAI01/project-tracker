@@ -1,0 +1,2 @@
+# Commit Log
+A transparent record of all automated commits made by the bot.

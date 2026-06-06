@@ -1,0 +1,2 @@
+# Daily Log
+This file tracks daily progress for the automated commit bot.
